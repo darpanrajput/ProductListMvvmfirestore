@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProductList Mvvm firestore</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">29</string>
+
+    <string name="added">added</string>
+    <string name="modified">modified</string>
+    <string name="removed">removed</string>
+</resources>
